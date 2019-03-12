@@ -1,0 +1,17 @@
+#faculty members: 4
+stiber
+fukuda
+cioch
+berger
+
+#faculty members: 3
+stiber
+fukuda
+berger
+
+#faculty members: 3
+berger
+stiber
+fukuda
+
+Process finished with exit code 0

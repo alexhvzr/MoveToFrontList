@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/CLionProjects/MTFList/dlist.cpp.h
+
+/Users/alex/CLionProjects/MTFList/dlist.h
+iostream
+-
+dlist.cpp.h
+/Users/alex/CLionProjects/MTFList/dlist.cpp.h
+
+/Users/alex/CLionProjects/MTFList/main.cpp
+iostream
+-
+string
+-
+mtflist.h
+/Users/alex/CLionProjects/MTFList/mtflist.h
+
+/Users/alex/CLionProjects/MTFList/mtflist.cpp.h
+
+/Users/alex/CLionProjects/MTFList/mtflist.h
+iostream
+-
+dlist.h
+/Users/alex/CLionProjects/MTFList/dlist.h
+mtflist.cpp.h
+/Users/alex/CLionProjects/MTFList/mtflist.cpp.h
+
